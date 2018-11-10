@@ -1,4 +1,4 @@
-from math import *
+from math import sqrt
 print('Type in a number to find the square root of it!')
 x = input()
 x = float(x)
